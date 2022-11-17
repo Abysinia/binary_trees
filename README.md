@@ -1,8 +1,6 @@
 # 0x1D. C - Binary trees
 
 ## Resources
-
-### Read or watch
 - https://en.wikipedia.org/wiki/Binary_tree
 - https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm
 - https://en.wikipedia.org/wiki/Binary_search_tree
